@@ -1,0 +1,414 @@
+.neveATerra12,
+.neveATerra13 {
+  position: absolute;
+  top: 959.6px;
+  left: -284.5px;
+  width: 1640.8px;
+  height: 222.9px;
+  object-fit: cover;
+}
+.neveATerra12 {
+  top: 662.6px;
+  width: 2414px;
+  height: 327.9px;
+  mix-blend-mode: screen;
+}
+.icon,
+.ombraWhiteIcon {
+  position: absolute;
+  top: 170.5px;
+  left: -284.5px;
+  width: 642.7px;
+  height: 635px;
+}
+.icon {
+  top: -271.1px;
+  left: 419.8px;
+  width: 753.8px;
+  height: 759.1px;
+  object-fit: cover;
+}
+.neveATerra14,
+.nft {
+  position: absolute;
+  top: 1005.8px;
+  left: 284.5px;
+  width: 1126px;
+  height: 742px;
+}
+.neveATerra14 {
+  top: 1743.5px;
+  left: 0;
+  width: 1600px;
+  height: 383.5px;
+  object-fit: cover;
+  mix-blend-mode: screen;
+}
+.copyright2022More {
+  position: absolute;
+  top: 178.8px;
+  left: 9.5px;
+  font-weight: 500;
+  display: inline-block;
+  width: 312px;
+  height: 20px;
+}
+.logo1Icon {
+  position: absolute;
+  height: 100%;
+  width: 21.11%;
+  top: -11.65%;
+  right: 78.89%;
+  bottom: 11.65%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.art {
+  color: var(--color-fuchsia);
+}
+.chainblockArt {
+  position: absolute;
+  height: 50.63%;
+  width: 74.57%;
+  top: 28.48%;
+  left: 20.59%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.logoCbArt,
+.logoCbArt1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.logoCbArt1 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+}
+.logoCbArt {
+  width: 289px;
+  height: 79px;
+  font-size: 27.39px;
+  color: var(--color-midnightblue-100);
+  font-family: var(--font-poppins);
+}
+.socialIcons {
+  position: absolute;
+  height: 17.61%;
+  width: 60.96%;
+  top: 51.46%;
+  right: 29.55%;
+  bottom: 30.94%;
+  left: 9.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.copyright2022MoreAllRightParent {
+  position: absolute;
+  top: 1878.1px;
+  left: 153px;
+  width: 321.5px;
+  height: 198.8px;
+  color: var(--color-dimgray-100);
+}
+.babboAiIcon {
+  position: absolute;
+  top: 1169.6px;
+  left: 162.5px;
+  width: 772px;
+  height: 731px;
+  object-fit: cover;
+}
+.nevePiccolo {
+  position: absolute;
+  top: 914.2px;
+  left: 1430.5px;
+  width: 129px;
+  height: 99.6px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+}
+.graziePerLacquistoecco,
+.intestazione {
+  position: absolute;
+  width: 687px;
+  height: 263px;
+}
+.graziePerLacquistoecco {
+  top: 0;
+  left: 0;
+  letter-spacing: -0.02em;
+  line-height: 83px;
+  display: inline-block;
+}
+.intestazione {
+  top: 337px;
+  left: 477px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.sectionHeroChild {
+  position: absolute;
+  top: 779px;
+  left: 229.5px;
+  border-radius: 50%;
+  width: 21px;
+  height: 25.8px;
+}
+.fiocchiDiNeve1,
+.sectionHero {
+  position: absolute;
+  width: 1611px;
+  height: 1091px;
+}
+.fiocchiDiNeve1 {
+  top: 8px;
+  left: 20px;
+  object-fit: cover;
+  mix-blend-mode: soft-light;
+}
+.sectionHero {
+  top: -8px;
+  left: -20px;
+  text-align: center;
+  font-size: var(--font-size-49xl);
+  font-family: var(--font-secular-one);
+}
+.divlogo {
+  position: absolute;
+  top: calc(50% - 77px);
+  left: calc(50% - 599.5px);
+}
+.divtgmenuNavbarWrap {
+  position: absolute;
+  width: calc(100% - 413px);
+  top: calc(50% - 53px);
+  right: 92px;
+  left: 321px;
+}
+.linkHome {
+  position: relative;
+  line-height: 20px;
+  text-transform: capitalize;
+}
+.item {
+  padding: var(--padding-11xl) 16.69000244140625px var(--padding-11xl)
+    var(--padding-base);
+}
+.item,
+.item1,
+.item2,
+.item3,
+.item4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item1 {
+  padding: var(--padding-11xl) 17.270004272460938px var(--padding-11xl)
+    var(--padding-base);
+  font-size: var(--font-size-lgi);
+}
+.item2,
+.item3,
+.item4 {
+  padding: var(--padding-11xl) 18.05999755859375px var(--padding-11xl)
+    var(--padding-base);
+}
+.item3,
+.item4 {
+  padding: var(--padding-11xl) 18.550003051757812px var(--padding-11xl)
+    var(--padding-base);
+}
+.item4 {
+  padding: var(--padding-11xl) 16.230003356933594px var(--padding-11xl)
+    var(--padding-base);
+  font-size: var(--font-size-lgi);
+}
+.list,
+.nav {
+  position: absolute;
+}
+.list {
+  height: calc(100% - 74px);
+  top: 64px;
+  bottom: 10px;
+  left: calc(50% - 173.5px);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+}
+.nav {
+  width: calc(100% - 178px);
+  top: calc(50% - 76.5px);
+  right: 178px;
+  left: 0;
+  height: 154px;
+}
+.buttonConnectWallet {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(62.05deg, #2600fc, #fa24fa);
+}
+.connectWallet {
+  position: absolute;
+  top: 21.6px;
+  left: 59.9px;
+  line-height: 21.6px;
+}
+.connectWalletButton {
+  position: absolute;
+  height: calc(100% - 88px);
+  width: calc(100% - 1098.2px);
+  top: 73.1px;
+  right: -16.8px;
+  bottom: 14.9px;
+  left: 1115px;
+  display: none;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.logo1Icon1 {
+  position: absolute;
+  height: 100%;
+  width: 21.14%;
+  top: 0;
+  right: 78.86%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chainblockArt1 {
+  position: absolute;
+  height: 50.7%;
+  width: 74.57%;
+  top: 24.69%;
+  left: 25.43%;
+  letter-spacing: -0.02em;
+  line-height: 115.5%;
+  font-weight: 600;
+  display: inline-block;
+}
+.logoCbArt2 {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  width: 317px;
+  height: 128px;
+  display: none;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-poppins);
+}
+.buttonConnectWalletChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-royalblue-100);
+}
+.connectWallet1 {
+  position: absolute;
+  width: 90.93%;
+  top: 22.22%;
+  left: 3.63%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.buttonConnectWallet1 {
+  position: absolute;
+  top: 84.6px;
+  left: 1063px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+  width: 193px;
+  height: 45px;
+  text-align: center;
+  font-family: var(--font-nunito);
+}
+.logo1Icon2 {
+  position: absolute;
+  height: 100%;
+  width: 21.12%;
+  top: 0;
+  right: 78.88%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chainblockArt2 {
+  position: absolute;
+  height: 50.68%;
+  width: 74.56%;
+  top: 24.66%;
+  left: 25.44%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.logoCbArt4 {
+  position: absolute;
+  top: 49.9px;
+  left: 55px;
+  width: 285px;
+  height: 110.3px;
+  font-size: 27.39px;
+  font-family: var(--font-poppins);
+}
+.menuNav {
+  position: absolute;
+  top: 21.7px;
+  left: 107.5px;
+  width: 1385px;
+  height: 155px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+}
+.loremIpsumDolor {
+  margin: 0;
+}
+.loremIpsumDolorContainer {
+  position: absolute;
+  top: 841.8px;
+  left: 222.7px;
+  font-size: var(--font-size-3xl);
+  line-height: 31.5px;
+  font-family: var(--font-nunito);
+  display: inline-block;
+  width: 506.8px;
+  height: 228.4px;
+}
+.thankYouPage {
+  position: relative;
+  background-color: var(--color-midnightblue-200);
+  width: 100%;
+  height: 2127px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-button-medium-size);
+  color: var(--white);
+  font-family: var(--font-space-grotesk);
+}

@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=General+Sans:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Secular+One:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Font+Awesome+5+Free:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-subheading-01: "Open Sans";
+  --body-text-medium: "General Sans";
+  --font-poppins: Poppins;
+  --font-nunito: Nunito;
+  --font-inter: Inter;
+  --font-space-grotesk: "Space Grotesk";
+  --font-secular-one: "Secular One";
+  --font-font-awesome-5-free: "Font Awesome 5 Free";
+
+  /* font sizes */
+  --body-subheading-01-size: 16px;
+  --body-button-medium-size: 14px;
+  --font-size-8xl-4: 27.4px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-7xl-1: 26.1px;
+  --font-size-10xl-9: 29.9px;
+  --font-size-21xl: 40px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-mid: 17px;
+  --font-size-lgi: 19px;
+  --font-size-7xl: 26px;
+  --font-size-3xl: 22px;
+  --font-size-16xl: 35px;
+  --font-size-49xl: 68px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --grey-600: #6e7491;
+  --purple-blue: #605dec;
+  --brand-primary-default: #4f4cee;
+  --color-dimgray-100: #545c71;
+  --text-light: #5c5c5f;
+  --butt3: #e5e5e5;
+  --text-2nd-lightest: #ddddde;
+  --color-silver-100: #c4c4c4;
+  --gray-4: #bdbdbd;
+  --color-silver-200: #b7b4bb;
+  --white: #fff;
+  --text-default: #1b1b25;
+  --color-gray-100: #0f172a;
+  --chainblock-background: #03062e;
+  --color-gray-200: rgba(131, 131, 131, 0.25);
+  --color-lavender-100: #e5e2ff;
+  --lilla-chiaro: #dee6ff;
+  --brand-primary-lightest: #dadafb;
+  --color-lavender-200: rgba(218, 218, 251, 0);
+  --color-fuchsia: #fa24fa;
+  --color-royalblue-100: #2478fe;
+  --controls-secondary-control-color-60: #2563eb;
+  --color-black: #000;
+  --color-midnightblue-100: #3e207c;
+  --color-midnightblue-200: #230540;
+  --cards: rgba(89, 74, 158, 0.72);
+  --color-mediumorchid-100: #c367e6;
+  --color-darkslategray-100: #475569;
+  --color-darkslategray-200: #1e2b4b;
+  --color-darkslategray-300: rgba(30, 43, 75, 0);
+  --cb-buttons-lightblue: #5380ea;
+  --lilla-medio: rgba(83, 128, 234, 0.37);
+  --color-steelblue: #726e9a;
+  --color-ghostwhite: #f9faff;
+  --color-darkgray: #aaa;
+  --color-tomato: #eb5939;
+
+  /* Gaps */
+  --gap-xs: 12px;
+  --gap-sm-8: 13.8px;
+  --gap-base: 16px;
+  --gap-5xs: 8px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-base: 16px;
+  --padding-2xs-3: 10.3px;
+  --padding-5xs: 8px;
+  --padding-9xs: 4px;
+  --padding-11xl: 30px;
+  --padding-base-2: 16.2px;
+  --padding-lg-6: 18.6px;
+  --padding-lg-1: 18.1px;
+  --padding-mid-3: 17.3px;
+  --padding-base-7: 16.7px;
+  --padding-smi-5: 12.5px;
+  --padding-mini-7: 14.7px;
+  --padding-base-3: 15.3px;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-12xs: 1px;
+  --br-8xs: 5px;
+  --br-9xs: 4px;
+  --br-5xs: 8px;
+  --br-lgi: 19px;
+  --br-lg: 18px;
+  --br-4xs: 9px;
+  --br-9xs-4: 3.4px;
+  --br-xs-2: 11.2px;
+  --br-8xs-3: 4.3px;
+  --br-31xl: 50px;
+  --br-14xl: 33px;
+  --br-xl: 20px;
+}

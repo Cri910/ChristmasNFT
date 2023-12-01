@@ -1,0 +1,620 @@
+.singleProductPageChild {
+  position: absolute;
+  height: 52.95%;
+  width: 101.75%;
+  top: 43.43%;
+  right: -0.66%;
+  bottom: 3.62%;
+  left: -1.09%;
+  background-color: var(--color-midnightblue-200);
+}
+.neveATerra13 {
+  position: absolute;
+  top: 27px;
+  left: 544px;
+  width: 2414px;
+  height: 406.3px;
+  object-fit: cover;
+  mix-blend-mode: screen;
+}
+.copyright2022More {
+  position: absolute;
+  top: 282.4px;
+  left: 716.5px;
+  font-weight: 500;
+  display: inline-block;
+  width: 312px;
+  height: 20px;
+}
+.logo1Icon,
+.socialIcons {
+  position: absolute;
+  top: 207.4px;
+  left: 719.5px;
+  width: 196px;
+  height: 35px;
+}
+.logo1Icon {
+  height: 100%;
+  width: 21.11%;
+  top: -11.65%;
+  right: 78.89%;
+  bottom: 11.65%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.art {
+  color: var(--color-fuchsia);
+}
+.chainblockArt {
+  position: absolute;
+  height: 50.63%;
+  width: 74.57%;
+  top: 28.48%;
+  left: 20.59%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.logoCbArt {
+  top: 103.6px;
+  left: 707px;
+  width: 289px;
+  height: 79px;
+  font-size: 27.39px;
+  color: var(--color-midnightblue-100);
+  font-family: var(--font-poppins);
+}
+.card,
+.footer,
+.logoCbArt {
+  position: absolute;
+}
+.footer {
+  top: 2104px;
+  left: -544px;
+  width: 2414px;
+  height: 406px;
+  font-size: var(--body-button-medium-size);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-space-grotesk);
+}
+.card {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--cards);
+}
+.currentBid {
+  height: 79.93%;
+  width: 42.4%;
+  top: 0;
+  left: 57.6%;
+  font-family: var(--font-poppins);
+}
+.auctionTime,
+.currentBid,
+.eth {
+  position: absolute;
+  display: inline-block;
+}
+.auctionTime {
+  height: 43.98%;
+  width: 43.4%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+}
+.eth {
+  height: 46.35%;
+  width: 27.8%;
+  top: 53.65%;
+  left: 55.18%;
+  color: var(--chainblock-background);
+  text-align: center;
+}
+.h1m50s {
+  margin: 0;
+}
+.h1m50sContainer {
+  height: 46.35%;
+  width: 34.96%;
+  top: 53.65%;
+  color: var(--chainblock-background);
+  text-align: center;
+  display: inline-block;
+}
+.btn1,
+.h1m50sContainer,
+.info,
+.title {
+  position: absolute;
+  left: 0;
+}
+.info {
+  height: 24.4%;
+  width: 97.3%;
+  top: 38.78%;
+  right: 2.7%;
+  bottom: 36.82%;
+}
+.btn1,
+.title {
+  width: 100%;
+  top: 0;
+}
+.title {
+  height: 30.72%;
+  font-size: var(--font-size-7xl);
+  line-height: 120.03%;
+  display: inline-block;
+}
+.btn1 {
+  height: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-4xs);
+  background-color: var(--cb-buttons-lightblue);
+}
+.acquistaOra {
+  position: absolute;
+  height: 52.43%;
+  width: 66.67%;
+  top: 27.99%;
+  left: 16.7%;
+  font-weight: 600;
+  display: inline-block;
+}
+.btn,
+.btnRow {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.btnRow {
+  height: 23.86%;
+  width: 54.51%;
+  top: 76.14%;
+  right: 30.54%;
+  left: 14.95%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  text-align: center;
+  font-size: var(--body-button-medium-size);
+  font-family: var(--font-poppins);
+}
+.infoText {
+  position: absolute;
+  height: 73.88%;
+  width: 41%;
+  top: 17.2%;
+  right: 13.87%;
+  bottom: 8.91%;
+  left: 45.13%;
+}
+.nftIcon {
+  height: 87.43%;
+  width: 36.73%;
+  top: 6.28%;
+  right: 58.63%;
+  bottom: 6.28%;
+  left: 4.64%;
+  border-radius: var(--br-14xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.nftIcon,
+.topNft,
+.viola {
+  position: absolute;
+}
+.topNft {
+  top: 1665.9px;
+  left: 100.1px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 651px;
+  height: 304px;
+}
+.viola {
+  top: 0;
+  left: 537.5px;
+  background-color: var(--color-midnightblue-200);
+  width: 1605px;
+  height: 1087px;
+}
+.background,
+.fiocchiDiNeve {
+  position: absolute;
+  width: 2739px;
+}
+.fiocchiDiNeve {
+  top: 1.6px;
+  left: 539.5px;
+  height: 1087px;
+  object-fit: cover;
+  mix-blend-mode: soft-light;
+}
+.background {
+  top: -18.6px;
+  left: -537.5px;
+  height: 1088.6px;
+}
+.singleProductCardChild {
+  position: absolute;
+  top: 102.6px;
+  left: -20.8px;
+  border-radius: var(--br-lg);
+  background-color: var(--lilla-chiaro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 1256.4px;
+  height: 500px;
+}
+.whatsappImage20231117At1 {
+  position: absolute;
+  top: 0;
+  left: 657.3px;
+  width: 582.4px;
+  height: 746.5px;
+  object-fit: cover;
+}
+.scrooge {
+  position: absolute;
+  top: 191.4px;
+  left: 53.4px;
+  line-height: 45px;
+  display: inline-block;
+  width: 317.9px;
+  height: 112.8px;
+}
+.singleProductCard {
+  position: absolute;
+  top: 265.3px;
+  left: 142.3px;
+  width: 1274.4px;
+  height: 738.5px;
+}
+.currentBid1,
+.endingIn,
+.eth1,
+.h30m24s {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 196.6px;
+  height: 45.7px;
+}
+.endingIn,
+.eth1,
+.h30m24s {
+  top: 3.6px;
+  left: 327.7px;
+  width: 166.8px;
+}
+.eth1,
+.h30m24s {
+  top: 67.8px;
+  left: 3px;
+  color: var(--color-midnightblue-100);
+  width: 196.6px;
+  height: 59px;
+}
+.h30m24s {
+  left: 327.7px;
+  width: 245.8px;
+  height: 110px;
+}
+.bidEnd {
+  position: absolute;
+  top: 562.7px;
+  left: 200.5px;
+  width: 573.5px;
+  height: 177.8px;
+  font-size: var(--font-size-16xl);
+  color: var(--color-steelblue);
+}
+.buttonAcquistaOraChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-royalblue-100);
+}
+.acquistaOra1 {
+  position: absolute;
+  width: 90.89%;
+  top: 28.26%;
+  left: 4.53%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.buttonAcquistaOra {
+  position: absolute;
+  top: 725px;
+  left: 198.5px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 258px;
+  height: 69px;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--white);
+}
+.productSection {
+  position: absolute;
+  top: 52.1px;
+  left: -2px;
+  width: 1597px;
+  height: 1112px;
+  font-size: 65px;
+  color: var(--color-midnightblue-100);
+}
+.topNft1,
+.topNft2 {
+  width: 651px;
+  height: 304px;
+}
+.topNft1 {
+  position: absolute;
+  top: 1264.5px;
+  left: 100.1px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.topNft2 {
+  top: 1270.5px;
+  left: 816.4px;
+}
+.btn6,
+.topNft2,
+.topNft3 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.btn6 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.topNft3 {
+  top: 1665.9px;
+  left: 816.4px;
+  width: 651px;
+  height: 304px;
+}
+.nevePiccoloIcon {
+  position: absolute;
+  height: 3.4%;
+  width: 8.86%;
+  top: 66.5%;
+  right: 8.29%;
+  bottom: 30.1%;
+  left: 82.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.divlogo {
+  position: absolute;
+  top: calc(50% - 77px);
+  left: calc(50% - 599.5px);
+}
+.divtgmenuNavbarWrap {
+  position: absolute;
+  width: calc(100% - 413px);
+  top: calc(50% - 53px);
+  right: 92px;
+  left: 321px;
+}
+.linkHome {
+  position: relative;
+  line-height: 20px;
+  text-transform: capitalize;
+}
+.item {
+  padding: var(--padding-11xl) 16.69000244140625px var(--padding-11xl)
+    var(--padding-base);
+}
+.item,
+.item1,
+.item2,
+.item3,
+.item4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item1 {
+  padding: var(--padding-11xl) 17.270004272460938px var(--padding-11xl)
+    var(--padding-base);
+  font-size: var(--font-size-lgi);
+}
+.item2,
+.item3,
+.item4 {
+  padding: var(--padding-11xl) 18.05999755859375px var(--padding-11xl)
+    var(--padding-base);
+}
+.item3,
+.item4 {
+  padding: var(--padding-11xl) 18.550003051757812px var(--padding-11xl)
+    var(--padding-base);
+}
+.item4 {
+  padding: var(--padding-11xl) 16.230003356933594px var(--padding-11xl)
+    var(--padding-base);
+  font-size: var(--font-size-lgi);
+}
+.list,
+.nav {
+  position: absolute;
+}
+.list {
+  height: calc(100% - 74px);
+  top: 64px;
+  bottom: 10px;
+  left: calc(50% - 173.5px);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+}
+.nav {
+  width: calc(100% - 178px);
+  top: calc(50% - 76.5px);
+  right: 178px;
+  left: 0;
+  height: 154px;
+}
+.buttonConnectWallet {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(62.05deg, #2600fc, #fa24fa);
+}
+.connectWallet {
+  position: absolute;
+  top: 21.6px;
+  left: 59.9px;
+  line-height: 21.6px;
+}
+.connectWalletButton {
+  position: absolute;
+  height: calc(100% - 88px);
+  width: calc(100% - 1098.2px);
+  top: 73.1px;
+  right: -16.8px;
+  bottom: 14.9px;
+  left: 1115px;
+  display: none;
+  text-align: center;
+  font-size: var(--font-size-mid);
+}
+.logo1Icon1 {
+  position: absolute;
+  height: 100%;
+  width: 21.14%;
+  top: 0;
+  right: 78.86%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chainblockArt1 {
+  position: absolute;
+  height: 50.7%;
+  width: 74.57%;
+  top: 24.69%;
+  left: 25.43%;
+  letter-spacing: -0.02em;
+  line-height: 115.5%;
+  font-weight: 600;
+  display: inline-block;
+}
+.logoCbArt2 {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  width: 317px;
+  height: 128px;
+  display: none;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-poppins);
+}
+.connectWallet1 {
+  position: absolute;
+  width: 90.93%;
+  top: 22.22%;
+  left: 3.63%;
+  letter-spacing: -0.02em;
+  display: inline-block;
+}
+.buttonConnectWallet1 {
+  position: absolute;
+  top: 84.6px;
+  left: 1063px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.6);
+  width: 193px;
+  height: 45px;
+  text-align: center;
+  font-family: var(--font-nunito);
+}
+.logo1Icon2 {
+  position: absolute;
+  height: 100%;
+  width: 21.12%;
+  top: 0;
+  right: 78.88%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chainblockArt2 {
+  position: absolute;
+  height: 50.68%;
+  width: 74.56%;
+  top: 24.66%;
+  left: 25.44%;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+  display: inline-block;
+}
+.logoCbArt4 {
+  position: absolute;
+  top: 49.9px;
+  left: 55px;
+  width: 285px;
+  height: 110.3px;
+  font-size: 27.39px;
+  font-family: var(--font-poppins);
+}
+.menuNav {
+  position: absolute;
+  top: 33px;
+  left: 108px;
+  width: 1385px;
+  height: 155px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+}
+.singleProductPage {
+  position: relative;
+  background-color: var(--color-midnightblue-200);
+  width: 100%;
+  height: 2442px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--body-subheading-01-size);
+  color: var(--white);
+  font-family: var(--font-nunito);
+}
